@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #08dada;
+}
+
+/* div{
+    border:1px solid rgb(56, 42, 109);
+    height: 100px;
+} */
+.container{
+    display: flex;
+    border: none;
+   flex-direction:row;
+   justify-content: space-evenly;
+   margin-top: 10%;
+}
+.item{
+    width:15%;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 130px;
+background-color:rgb(32 163 163);
+ 
+}
+.box{
+    display: flex;
+    border: none;
+   flex-direction:row;
+   justify-content: space-evenly;
+   margin-top: 90px;
+}

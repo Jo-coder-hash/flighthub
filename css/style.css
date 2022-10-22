@@ -1,0 +1,40 @@
+.container{
+    width:50%;
+    height:270px ;
+    background-color:   #00b300;
+    padding: 10px 5px 5px 10px ; 
+    padding-top: 20px;
+    margin: 20px ;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-bottom: 50%;
+    text-align: justify;
+}   
+h1{
+    font-size: 40px;
+    color: white;
+    padding-right: 30%;
+    margin-top: -20px;
+    margin-left: 10%;
+}  
+label {
+    color: white;
+    font-weight: bold;
+    display: block; 
+}
+
+input[type=text]{
+    width: 250%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  } 
+  input[type=submit]{
+    font-size: 23px; 
+    height: 6%;
+    border:none;
+  } 
+
